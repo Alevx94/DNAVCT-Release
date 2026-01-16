@@ -1,8 +1,8 @@
 {
-  "versionName": "1.0.2",
-  "versionCode": 81,
+  "versionName": "1.0.3",
+  "versionCode": 82,
   "apkUrl": "https://https://alevx94.github.io/DNAVCT-Release/release/latest.apk",
-  "sha256": "50A12D7B31E916FAE12B6C9A5CDDE4CEAD161A3ADA9CE8F688075CFE4EBE0938",
+  "sha256": "93729DCFF296A21D2D66F230E90E5154ADBAD22E4BC7F1D2FCC662640786A972",
   "minSdk": 26,
   "changelog": "Test aggiornamento app."
 }
